@@ -5,7 +5,7 @@ Note App demonstrates modern Android development with (Room, DataBase),MVVM, Rep
 </p>
 
 # Screenshots:
-<img width="388" alt="Screenshot 2024-03-27 at 7 09 46 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/12d4b51c-f0b8-4972-9a4a-06d7cd356df0">
+<img width="391" alt="Screenshot 2024-03-27 at 7 09 46 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/12d4b51c-f0b8-4972-9a4a-06d7cd356df0">
 <img width="391" alt="Screenshot 2024-03-27 at 7 10 28 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/6d61bcb0-5169-4638-b370-90fed86f8298">
 <img width="395" alt="Screenshot 2024-03-27 at 7 12 46 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/26528b44-3632-4d14-8b69-0e794b733c29">
 <img width="393" alt="Screenshot 2024-03-27 at 7 13 12 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/bb835381-67d7-493a-b49d-0922d8eae744">
