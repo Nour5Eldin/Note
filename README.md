@@ -5,12 +5,13 @@ Note App demonstrates modern Android development with (Room, DataBase),MVVM, Rep
 </p>
 
 # Screenshots:
-<img width="388" alt="Screenshot 2024-03-27 at 7 09 46 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/fbb6ed78-73f3-4497-bad1-552bff3a9f19">
-<img width="394" alt="Screenshot 2024-03-27 at 7 10 28 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/36ea1317-459f-42db-9ecb-19ca14c9b8a9">
-<img width="395" alt="Screenshot 2024-03-27 at 7 12 46 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/bf26f204-d24e-4727-8d77-e06a7c9a82d9">
-<img width="401" alt="Screenshot 2024-03-27 at 7 13 12 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/a3d41489-d16e-4c63-a1c1-eb24b9226ffa">
-<img width="395" alt="Screenshot 2024-03-27 at 7 13 39 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/e6d88648-6849-41ac-ae41-2e6500574fd4">
-<img width="392" alt="Screenshot 2024-03-27 at 7 35 03 PM" src="https://github.com/Nour5Eldin/News/assets/145837378/c2b44790-775a-491e-b1c6-6c5dd712d2b5">
+<img width="388" alt="Screenshot 2024-03-27 at 7 09 46 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/12d4b51c-f0b8-4972-9a4a-06d7cd356df0">
+<img width="391" alt="Screenshot 2024-03-27 at 7 10 28 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/6d61bcb0-5169-4638-b370-90fed86f8298">
+<img width="395" alt="Screenshot 2024-03-27 at 7 12 46 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/26528b44-3632-4d14-8b69-0e794b733c29">
+<img width="393" alt="Screenshot 2024-03-27 at 7 13 12 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/bb835381-67d7-493a-b49d-0922d8eae744">
+<img width="401" alt="Screenshot 2024-03-27 at 7 13 39 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/7fa96eeb-a3f2-4570-9cbd-eccbeeeda28e">
+<img width="392" alt="Screenshot 2024-03-27 at 7 35 03 PM" src="https://github.com/Nour5Eldin/Note/assets/145837378/2e7ed85b-ff57-4c62-bb24-e441492a75a1">
+
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 26
